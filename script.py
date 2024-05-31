@@ -60,7 +60,7 @@ Provide them with general health tips. Always include the JSON Have a conversati
 "fibre":
 },]
 }'''
-app_key = "AIzaSyC30uUgSTjZZkuxfwCdphrBmNUWTJlj1TM"
+app_key = "AIzaSyAtSvHLVk59ZzQTuf6_d7PlYxp4u46HkdE"
 if app_key:
     st.session_state.app_key = app_key
 
