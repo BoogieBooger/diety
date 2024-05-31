@@ -61,8 +61,8 @@ Provide them with general health tips. Have a conversation with me and help me c
 },]
 }'''
 app_key = "AIzaSyC30uUgSTjZZkuxfwCdphrBmNUWTJlj1TM"
-    if app_key:
-        st.session_state.app_key = app_key
+if app_key:
+    st.session_state.app_key = app_key
 
 if "history" not in st.session_state:
     st.session_state.history = [
