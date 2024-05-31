@@ -60,7 +60,7 @@ Provide them with general health tips. Have a conversation with me and help me c
 "fibre":
 },]
 }'''
-    app_key = "AIzaSyC30uUgSTjZZkuxfwCdphrBmNUWTJlj1TM"
+app_key = "AIzaSyC30uUgSTjZZkuxfwCdphrBmNUWTJlj1TM"
     if app_key:
         st.session_state.app_key = app_key
 
